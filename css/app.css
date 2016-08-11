@@ -1,0 +1,9 @@
+#about{
+  padding-top:10%;
+  padding-bottom:10%;
+  background-image: url("../img/background.jpg");
+  background-position:center center;
+  background-size: cover;
+  color: #ff1493;
+
+}
